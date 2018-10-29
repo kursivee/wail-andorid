@@ -20,8 +20,13 @@ What am I learning. Using this to track what I've been learning in the android w
 * [Expresso](https://developer.android.com/training/testing/ui-testing/espresso-testing)
 
 
-<h2>Questions</h2>
+## Questions
 
 * How do we handle caching data per user session?
   * Do we need a refresh option?
 * Can I use LiveData with retrofit?
+
+## Cool
+
+* [F-Droid](https://en.wikipedia.org/wiki/F-Droid)
+  * Open source "Google play store". Can look up apps and see how they do things.
