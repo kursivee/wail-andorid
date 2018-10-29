@@ -12,10 +12,12 @@ What am I learning. Using this to track what I've been learning in the android w
 * [Dagger](https://github.com/google/dagger)
 * [Android Jetpack](https://developer.android.com/jetpack/)
   * [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
+    * [Codelab](https://codelabs.developers.google.com/codelabs/android-navigation/#0)  
   * [Android LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 * [Retrofit](https://github.com/square/retrofit)
 * [Room](https://developer.android.com/training/data-storage/room/)
   * Abstraction layer over SQLLite
+* [Expresso](https://developer.android.com/training/testing/ui-testing/espresso-testing)
 
 
 <h2>Questions</h2>
