@@ -1,10 +1,12 @@
 # wail-andorid
 What am I learning. Using this to track what I've been learning in the android world.
 
-<h2>Prelearn</h2>
+## Prelearn
+
 * Observer pattern
 
-<h2>Core</h2>
+## Core
+
 * [Android Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 * [Dagger](https://github.com/google/dagger)
 * [Android Jetpack](https://developer.android.com/jetpack/)
@@ -13,5 +15,6 @@ What am I learning. Using this to track what I've been learning in the android w
 
 
 <h2>Questions</h2>
+
 * How do we handle caching data per user session?
 * Can I use LiveData with retrofit?
