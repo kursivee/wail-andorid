@@ -3,8 +3,14 @@ What am I learning. Using this to track what I've been learning in the android w
 
 ## Prelearn
 
-* Observer pattern
+* Patterns
+  * Builder
+  * Observer
 * Dependency Injection
+* [Architecture](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/)
+  * MVP
+  * MVVM
+  * MVC
 
 ## Core
 
