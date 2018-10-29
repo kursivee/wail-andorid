@@ -1,4 +1,4 @@
-# wail-andorid
+# wail-android
 What am I learning. Using this to track what I've been learning in the android world. This page is super high level. Any topics that require more in depth research will have it's own folder.
 
 ## Prelearn
@@ -17,7 +17,7 @@ What am I learning. Using this to track what I've been learning in the android w
 * [Retrofit](https://github.com/square/retrofit)
 * [Room](https://developer.android.com/training/data-storage/room/)
   * Abstraction layer over SQLLite
-* [Expresso](https://developer.android.com/training/testing/ui-testing/espresso-testing)
+* [Espresso](https://developer.android.com/training/testing/ui-testing/espresso-testing)
 
 
 ## Questions
