@@ -10,6 +10,7 @@ What am I learning. Using this to track what I've been learning in the android w
 
 * [Android Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 * [Dagger](https://github.com/google/dagger)
+* [Moshi](https://github.com/square/moshi)
 * [Android Jetpack](https://developer.android.com/jetpack/)
   * [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
     * [Codelab](https://codelabs.developers.google.com/codelabs/android-navigation/#0)  
